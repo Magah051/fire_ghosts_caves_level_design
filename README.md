@@ -39,7 +39,7 @@ With bravery and determination, Lucas uses his fiery torch to repel the burning 
 
 ## Game Interface
 
-![Capturar_2023_12_31_16_01_51_504 - Copia](https://github.com/Magah051/fire_ghosts_caves_level_design/assets/31749933/077b06ed-4580-4622-97e0-ade82874f0e6)
+![Capturar_2023_12_31_16_01_51_504 - Copia](https://github.com/Magah051/fire_ghosts_caves_level_design/assets/31749933/ffee54a2-3697-45d1-9551-b4df83b98512)
 ![Capturar_2024_02_10_22_42_48_221](https://github.com/Magah051/fire_ghosts_caves_level_design/assets/31749933/2d387fb0-69ed-40ec-805f-3702cf7df46c)
 ![Capturar_2024_02_10_22_43_53_969](https://github.com/Magah051/fire_ghosts_caves_level_design/assets/31749933/47ba6de8-2319-4672-b017-942b8606807a)
 ![Capturar_2024_02_10_22_43_30_11](https://github.com/Magah051/fire_ghosts_caves_level_design/assets/31749933/c062fbd9-36ba-43ec-903e-b75b42eaf08f)
