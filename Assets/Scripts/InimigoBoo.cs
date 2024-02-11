@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InimigoBoo : MonoBehaviour
 {
@@ -76,6 +77,14 @@ public class InimigoBoo : MonoBehaviour
         {
             indoParaDireita = false;
             transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            SceneManager.LoadScene(1);
         }
     }
 }
